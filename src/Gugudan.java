@@ -1,8 +1,7 @@
 
 import java.util.Scanner;
-
 public class Gugudan {
-	public static void main(String[]) args) {
+	public static void main(String[] ) args) {
 		// 2단
 		System.out.println(2*1);
 		System.out.println(2*2);
@@ -61,7 +60,6 @@ public class Gugudan {
 		System.out.println(number * 7);
 		System.out.println(number * 8);
 		System.out.println(number * 9);
-		
 		
 		
 		
